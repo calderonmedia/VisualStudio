@@ -1,0 +1,10 @@
+c:\users\pactiv12\favorites\documents\visual studio 2015\Projects\Mass and Weight\Mass and Weight\bin\Debug\Mass and Weight.exe.config
+c:\users\pactiv12\favorites\documents\visual studio 2015\Projects\Mass and Weight\Mass and Weight\bin\Debug\Mass and Weight.exe
+c:\users\pactiv12\favorites\documents\visual studio 2015\Projects\Mass and Weight\Mass and Weight\bin\Debug\Mass and Weight.pdb
+c:\users\pactiv12\favorites\documents\visual studio 2015\Projects\Mass and Weight\Mass and Weight\bin\Debug\Mass and Weight.xml
+c:\users\pactiv12\favorites\documents\visual studio 2015\Projects\Mass and Weight\Mass and Weight\obj\Debug\Mass and Weight.vbprojResolveAssemblyReference.cache
+c:\users\pactiv12\favorites\documents\visual studio 2015\Projects\Mass and Weight\Mass and Weight\obj\Debug\Mass_and_Weight.Resources.resources
+c:\users\pactiv12\favorites\documents\visual studio 2015\Projects\Mass and Weight\Mass and Weight\obj\Debug\Mass and Weight.vbproj.GenerateResource.Cache
+c:\users\pactiv12\favorites\documents\visual studio 2015\Projects\Mass and Weight\Mass and Weight\obj\Debug\Mass and Weight.exe
+c:\users\pactiv12\favorites\documents\visual studio 2015\Projects\Mass and Weight\Mass and Weight\obj\Debug\Mass and Weight.xml
+c:\users\pactiv12\favorites\documents\visual studio 2015\Projects\Mass and Weight\Mass and Weight\obj\Debug\Mass and Weight.pdb

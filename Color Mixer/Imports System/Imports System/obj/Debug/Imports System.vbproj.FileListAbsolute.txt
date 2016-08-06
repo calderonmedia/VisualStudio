@@ -1,0 +1,10 @@
+C:\Users\pactiv12\Favorites\Documents\Visual Studio 2015\Projects\Color Mixer\Imports System\Imports System\bin\Debug\Imports System.exe.config
+C:\Users\pactiv12\Favorites\Documents\Visual Studio 2015\Projects\Color Mixer\Imports System\Imports System\obj\Debug\Imports System.vbprojResolveAssemblyReference.cache
+C:\Users\pactiv12\Favorites\Documents\Visual Studio 2015\Projects\Color Mixer\Imports System\Imports System\obj\Debug\Imports_System.Resources.resources
+C:\Users\pactiv12\Favorites\Documents\Visual Studio 2015\Projects\Color Mixer\Imports System\Imports System\obj\Debug\Imports System.vbproj.GenerateResource.Cache
+C:\Users\pactiv12\Favorites\Documents\Visual Studio 2015\Projects\Color Mixer\Imports System\Imports System\obj\Debug\Imports System.xml
+C:\Users\pactiv12\Favorites\Documents\Visual Studio 2015\Projects\Color Mixer\Imports System\Imports System\bin\Debug\Imports System.exe
+C:\Users\pactiv12\Favorites\Documents\Visual Studio 2015\Projects\Color Mixer\Imports System\Imports System\bin\Debug\Imports System.pdb
+C:\Users\pactiv12\Favorites\Documents\Visual Studio 2015\Projects\Color Mixer\Imports System\Imports System\bin\Debug\Imports System.xml
+C:\Users\pactiv12\Favorites\Documents\Visual Studio 2015\Projects\Color Mixer\Imports System\Imports System\obj\Debug\Imports System.exe
+C:\Users\pactiv12\Favorites\Documents\Visual Studio 2015\Projects\Color Mixer\Imports System\Imports System\obj\Debug\Imports System.pdb

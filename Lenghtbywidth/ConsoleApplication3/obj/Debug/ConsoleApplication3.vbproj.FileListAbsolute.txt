@@ -1,0 +1,14 @@
+c:\users\pactiv12\favorites\documents\visual studio 2015\Projects\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe.config
+c:\users\pactiv12\favorites\documents\visual studio 2015\Projects\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.vbprojResolveAssemblyReference.cache
+c:\users\pactiv12\favorites\documents\visual studio 2015\Projects\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.Resources.resources
+c:\users\pactiv12\favorites\documents\visual studio 2015\Projects\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.vbproj.GenerateResource.Cache
+c:\users\pactiv12\favorites\documents\visual studio 2015\Projects\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.xml
+c:\users\pactiv12\favorites\documents\visual studio 2015\Projects\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe
+c:\users\pactiv12\favorites\documents\visual studio 2015\Projects\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.pdb
+c:\users\pactiv12\favorites\documents\visual studio 2015\Projects\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.xml
+c:\users\pactiv12\favorites\documents\visual studio 2015\Projects\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.exe
+c:\users\pactiv12\favorites\documents\visual studio 2015\Projects\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.pdb
+C:\Users\pactiv12\Favorites\Documents\Visual Studio 2015\Projects\Lenghtbywidth\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe.config
+C:\Users\pactiv12\Favorites\Documents\Visual Studio 2015\Projects\Lenghtbywidth\ConsoleApplication3\obj\Debug\ConsoleApplication3.exe
+C:\Users\pactiv12\Favorites\Documents\Visual Studio 2015\Projects\Lenghtbywidth\ConsoleApplication3\obj\Debug\ConsoleApplication3.xml
+C:\Users\pactiv12\Favorites\Documents\Visual Studio 2015\Projects\Lenghtbywidth\ConsoleApplication3\obj\Debug\ConsoleApplication3.pdb

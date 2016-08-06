@@ -1,0 +1,10 @@
+C:\Users\pactiv12\Favorites\Documents\Visual Studio 2015\Projects\Color Mixer\Accumulation and Loops\Accumulation and Loops\bin\Debug\Accumulation and Loops.exe.config
+C:\Users\pactiv12\Favorites\Documents\Visual Studio 2015\Projects\Color Mixer\Accumulation and Loops\Accumulation and Loops\obj\Debug\Accumulation and Loops.vbprojResolveAssemblyReference.cache
+C:\Users\pactiv12\Favorites\Documents\Visual Studio 2015\Projects\Color Mixer\Accumulation and Loops\Accumulation and Loops\obj\Debug\Accumulation_and_Loops.Resources.resources
+C:\Users\pactiv12\Favorites\Documents\Visual Studio 2015\Projects\Color Mixer\Accumulation and Loops\Accumulation and Loops\obj\Debug\Accumulation and Loops.vbproj.GenerateResource.Cache
+C:\Users\pactiv12\Favorites\Documents\Visual Studio 2015\Projects\Color Mixer\Accumulation and Loops\Accumulation and Loops\obj\Debug\Accumulation and Loops.xml
+C:\Users\pactiv12\Favorites\Documents\Visual Studio 2015\Projects\Color Mixer\Accumulation and Loops\Accumulation and Loops\bin\Debug\Accumulation and Loops.exe
+C:\Users\pactiv12\Favorites\Documents\Visual Studio 2015\Projects\Color Mixer\Accumulation and Loops\Accumulation and Loops\bin\Debug\Accumulation and Loops.pdb
+C:\Users\pactiv12\Favorites\Documents\Visual Studio 2015\Projects\Color Mixer\Accumulation and Loops\Accumulation and Loops\bin\Debug\Accumulation and Loops.xml
+C:\Users\pactiv12\Favorites\Documents\Visual Studio 2015\Projects\Color Mixer\Accumulation and Loops\Accumulation and Loops\obj\Debug\Accumulation and Loops.exe
+C:\Users\pactiv12\Favorites\Documents\Visual Studio 2015\Projects\Color Mixer\Accumulation and Loops\Accumulation and Loops\obj\Debug\Accumulation and Loops.pdb

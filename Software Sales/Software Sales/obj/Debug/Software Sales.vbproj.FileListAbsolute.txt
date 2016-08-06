@@ -1,0 +1,14 @@
+C:\Users\pactiv12\Favorites\Documents\Visual Studio 2015\Projects\Color Mixer\Software Sales\Software Sales\bin\Debug\Software Sales.exe.config
+C:\Users\pactiv12\Favorites\Documents\Visual Studio 2015\Projects\Color Mixer\Software Sales\Software Sales\obj\Debug\Software Sales.vbprojResolveAssemblyReference.cache
+C:\Users\pactiv12\Favorites\Documents\Visual Studio 2015\Projects\Color Mixer\Software Sales\Software Sales\obj\Debug\Software_Sales.Resources.resources
+C:\Users\pactiv12\Favorites\Documents\Visual Studio 2015\Projects\Color Mixer\Software Sales\Software Sales\obj\Debug\Software Sales.vbproj.GenerateResource.Cache
+C:\Users\pactiv12\Favorites\Documents\Visual Studio 2015\Projects\Color Mixer\Software Sales\Software Sales\bin\Debug\Software Sales.exe
+C:\Users\pactiv12\Favorites\Documents\Visual Studio 2015\Projects\Color Mixer\Software Sales\Software Sales\bin\Debug\Software Sales.pdb
+C:\Users\pactiv12\Favorites\Documents\Visual Studio 2015\Projects\Color Mixer\Software Sales\Software Sales\bin\Debug\Software Sales.xml
+C:\Users\pactiv12\Favorites\Documents\Visual Studio 2015\Projects\Color Mixer\Software Sales\Software Sales\obj\Debug\Software Sales.exe
+C:\Users\pactiv12\Favorites\Documents\Visual Studio 2015\Projects\Color Mixer\Software Sales\Software Sales\obj\Debug\Software Sales.xml
+C:\Users\pactiv12\Favorites\Documents\Visual Studio 2015\Projects\Color Mixer\Software Sales\Software Sales\obj\Debug\Software Sales.pdb
+C:\Users\pactiv12\Favorites\Documents\Visual Studio 2015\Projects\Software Sales\Software Sales\bin\Debug\Software Sales.exe.config
+C:\Users\pactiv12\Favorites\Documents\Visual Studio 2015\Projects\Software Sales\Software Sales\obj\Debug\Software Sales.exe
+C:\Users\pactiv12\Favorites\Documents\Visual Studio 2015\Projects\Software Sales\Software Sales\obj\Debug\Software Sales.xml
+C:\Users\pactiv12\Favorites\Documents\Visual Studio 2015\Projects\Software Sales\Software Sales\obj\Debug\Software Sales.pdb

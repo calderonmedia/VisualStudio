@@ -1,0 +1,10 @@
+C:\Users\pactiv12\Favorites\Documents\Visual Studio 2015\Projects\Color Mixer\Half Number\Half Number\bin\Debug\Half Number.exe.config
+C:\Users\pactiv12\Favorites\Documents\Visual Studio 2015\Projects\Color Mixer\Half Number\Half Number\obj\Debug\Half Number.vbprojResolveAssemblyReference.cache
+C:\Users\pactiv12\Favorites\Documents\Visual Studio 2015\Projects\Color Mixer\Half Number\Half Number\obj\Debug\Half_Number.Resources.resources
+C:\Users\pactiv12\Favorites\Documents\Visual Studio 2015\Projects\Color Mixer\Half Number\Half Number\obj\Debug\Half Number.vbproj.GenerateResource.Cache
+C:\Users\pactiv12\Favorites\Documents\Visual Studio 2015\Projects\Color Mixer\Half Number\Half Number\obj\Debug\Half Number.xml
+C:\Users\pactiv12\Favorites\Documents\Visual Studio 2015\Projects\Color Mixer\Half Number\Half Number\bin\Debug\Half Number.exe
+C:\Users\pactiv12\Favorites\Documents\Visual Studio 2015\Projects\Color Mixer\Half Number\Half Number\bin\Debug\Half Number.pdb
+C:\Users\pactiv12\Favorites\Documents\Visual Studio 2015\Projects\Color Mixer\Half Number\Half Number\bin\Debug\Half Number.xml
+C:\Users\pactiv12\Favorites\Documents\Visual Studio 2015\Projects\Color Mixer\Half Number\Half Number\obj\Debug\Half Number.exe
+C:\Users\pactiv12\Favorites\Documents\Visual Studio 2015\Projects\Color Mixer\Half Number\Half Number\obj\Debug\Half Number.pdb

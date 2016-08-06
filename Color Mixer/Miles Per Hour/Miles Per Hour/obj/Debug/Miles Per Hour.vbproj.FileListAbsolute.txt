@@ -1,0 +1,10 @@
+C:\Users\pactiv12\Favorites\Documents\Visual Studio 2015\Projects\Color Mixer\Miles Per Hour\Miles Per Hour\bin\Debug\Miles Per Hour.exe.config
+C:\Users\pactiv12\Favorites\Documents\Visual Studio 2015\Projects\Color Mixer\Miles Per Hour\Miles Per Hour\obj\Debug\Miles Per Hour.vbprojResolveAssemblyReference.cache
+C:\Users\pactiv12\Favorites\Documents\Visual Studio 2015\Projects\Color Mixer\Miles Per Hour\Miles Per Hour\obj\Debug\Miles_Per_Hour.Resources.resources
+C:\Users\pactiv12\Favorites\Documents\Visual Studio 2015\Projects\Color Mixer\Miles Per Hour\Miles Per Hour\obj\Debug\Miles Per Hour.vbproj.GenerateResource.Cache
+C:\Users\pactiv12\Favorites\Documents\Visual Studio 2015\Projects\Color Mixer\Miles Per Hour\Miles Per Hour\bin\Debug\Miles Per Hour.exe
+C:\Users\pactiv12\Favorites\Documents\Visual Studio 2015\Projects\Color Mixer\Miles Per Hour\Miles Per Hour\bin\Debug\Miles Per Hour.pdb
+C:\Users\pactiv12\Favorites\Documents\Visual Studio 2015\Projects\Color Mixer\Miles Per Hour\Miles Per Hour\bin\Debug\Miles Per Hour.xml
+C:\Users\pactiv12\Favorites\Documents\Visual Studio 2015\Projects\Color Mixer\Miles Per Hour\Miles Per Hour\obj\Debug\Miles Per Hour.exe
+C:\Users\pactiv12\Favorites\Documents\Visual Studio 2015\Projects\Color Mixer\Miles Per Hour\Miles Per Hour\obj\Debug\Miles Per Hour.xml
+C:\Users\pactiv12\Favorites\Documents\Visual Studio 2015\Projects\Color Mixer\Miles Per Hour\Miles Per Hour\obj\Debug\Miles Per Hour.pdb

@@ -1,0 +1,10 @@
+C:\Users\pactiv12\Favorites\Documents\Visual Studio 2015\Projects\Color Mixer\Bug Collector\Bug Collector\bin\Debug\Bug Collector.exe.config
+C:\Users\pactiv12\Favorites\Documents\Visual Studio 2015\Projects\Color Mixer\Bug Collector\Bug Collector\bin\Debug\Bug Collector.exe
+C:\Users\pactiv12\Favorites\Documents\Visual Studio 2015\Projects\Color Mixer\Bug Collector\Bug Collector\bin\Debug\Bug Collector.pdb
+C:\Users\pactiv12\Favorites\Documents\Visual Studio 2015\Projects\Color Mixer\Bug Collector\Bug Collector\bin\Debug\Bug Collector.xml
+C:\Users\pactiv12\Favorites\Documents\Visual Studio 2015\Projects\Color Mixer\Bug Collector\Bug Collector\obj\Debug\Bug Collector.vbprojResolveAssemblyReference.cache
+C:\Users\pactiv12\Favorites\Documents\Visual Studio 2015\Projects\Color Mixer\Bug Collector\Bug Collector\obj\Debug\Bug_Collector.Resources.resources
+C:\Users\pactiv12\Favorites\Documents\Visual Studio 2015\Projects\Color Mixer\Bug Collector\Bug Collector\obj\Debug\Bug Collector.vbproj.GenerateResource.Cache
+C:\Users\pactiv12\Favorites\Documents\Visual Studio 2015\Projects\Color Mixer\Bug Collector\Bug Collector\obj\Debug\Bug Collector.exe
+C:\Users\pactiv12\Favorites\Documents\Visual Studio 2015\Projects\Color Mixer\Bug Collector\Bug Collector\obj\Debug\Bug Collector.xml
+C:\Users\pactiv12\Favorites\Documents\Visual Studio 2015\Projects\Color Mixer\Bug Collector\Bug Collector\obj\Debug\Bug Collector.pdb

@@ -1,0 +1,14 @@
+c:\users\pactiv12\favorites\documents\visual studio 2015\Projects\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe.config
+c:\users\pactiv12\favorites\documents\visual studio 2015\Projects\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.vbprojResolveAssemblyReference.cache
+c:\users\pactiv12\favorites\documents\visual studio 2015\Projects\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.Resources.resources
+c:\users\pactiv12\favorites\documents\visual studio 2015\Projects\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.vbproj.GenerateResource.Cache
+c:\users\pactiv12\favorites\documents\visual studio 2015\Projects\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
+c:\users\pactiv12\favorites\documents\visual studio 2015\Projects\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
+c:\users\pactiv12\favorites\documents\visual studio 2015\Projects\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.xml
+c:\users\pactiv12\favorites\documents\visual studio 2015\Projects\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
+c:\users\pactiv12\favorites\documents\visual studio 2015\Projects\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.xml
+c:\users\pactiv12\favorites\documents\visual studio 2015\Projects\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb
+C:\Users\pactiv12\Favorites\Documents\Visual Studio 2015\Projects\Roman 2\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe.config
+C:\Users\pactiv12\Favorites\Documents\Visual Studio 2015\Projects\Roman 2\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
+C:\Users\pactiv12\Favorites\Documents\Visual Studio 2015\Projects\Roman 2\ConsoleApplication2\obj\Debug\ConsoleApplication2.xml
+C:\Users\pactiv12\Favorites\Documents\Visual Studio 2015\Projects\Roman 2\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb

@@ -1,0 +1,10 @@
+C:\Users\pactiv12\Favorites\Documents\Visual Studio 2015\Projects\Color Mixer\Rectangle Area\Rectangle Area\bin\Debug\Rectangle Area.exe.config
+C:\Users\pactiv12\Favorites\Documents\Visual Studio 2015\Projects\Color Mixer\Rectangle Area\Rectangle Area\bin\Debug\Rectangle Area.exe
+C:\Users\pactiv12\Favorites\Documents\Visual Studio 2015\Projects\Color Mixer\Rectangle Area\Rectangle Area\bin\Debug\Rectangle Area.pdb
+C:\Users\pactiv12\Favorites\Documents\Visual Studio 2015\Projects\Color Mixer\Rectangle Area\Rectangle Area\bin\Debug\Rectangle Area.xml
+C:\Users\pactiv12\Favorites\Documents\Visual Studio 2015\Projects\Color Mixer\Rectangle Area\Rectangle Area\obj\Debug\Rectangle Area.vbprojResolveAssemblyReference.cache
+C:\Users\pactiv12\Favorites\Documents\Visual Studio 2015\Projects\Color Mixer\Rectangle Area\Rectangle Area\obj\Debug\Rectangle_Area.Resources.resources
+C:\Users\pactiv12\Favorites\Documents\Visual Studio 2015\Projects\Color Mixer\Rectangle Area\Rectangle Area\obj\Debug\Rectangle Area.vbproj.GenerateResource.Cache
+C:\Users\pactiv12\Favorites\Documents\Visual Studio 2015\Projects\Color Mixer\Rectangle Area\Rectangle Area\obj\Debug\Rectangle Area.exe
+C:\Users\pactiv12\Favorites\Documents\Visual Studio 2015\Projects\Color Mixer\Rectangle Area\Rectangle Area\obj\Debug\Rectangle Area.xml
+C:\Users\pactiv12\Favorites\Documents\Visual Studio 2015\Projects\Color Mixer\Rectangle Area\Rectangle Area\obj\Debug\Rectangle Area.pdb

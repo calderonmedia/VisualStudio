@@ -1,0 +1,10 @@
+C:\Users\pactiv12\Favorites\Documents\Visual Studio 2015\Projects\Color Mixer\KE Energy\KE Energy\bin\Debug\KE Energy.exe.config
+C:\Users\pactiv12\Favorites\Documents\Visual Studio 2015\Projects\Color Mixer\KE Energy\KE Energy\bin\Debug\KE Energy.exe
+C:\Users\pactiv12\Favorites\Documents\Visual Studio 2015\Projects\Color Mixer\KE Energy\KE Energy\bin\Debug\KE Energy.pdb
+C:\Users\pactiv12\Favorites\Documents\Visual Studio 2015\Projects\Color Mixer\KE Energy\KE Energy\bin\Debug\KE Energy.xml
+C:\Users\pactiv12\Favorites\Documents\Visual Studio 2015\Projects\Color Mixer\KE Energy\KE Energy\obj\Debug\KE Energy.vbprojResolveAssemblyReference.cache
+C:\Users\pactiv12\Favorites\Documents\Visual Studio 2015\Projects\Color Mixer\KE Energy\KE Energy\obj\Debug\KE_Energy.Resources.resources
+C:\Users\pactiv12\Favorites\Documents\Visual Studio 2015\Projects\Color Mixer\KE Energy\KE Energy\obj\Debug\KE Energy.vbproj.GenerateResource.Cache
+C:\Users\pactiv12\Favorites\Documents\Visual Studio 2015\Projects\Color Mixer\KE Energy\KE Energy\obj\Debug\KE Energy.exe
+C:\Users\pactiv12\Favorites\Documents\Visual Studio 2015\Projects\Color Mixer\KE Energy\KE Energy\obj\Debug\KE Energy.xml
+C:\Users\pactiv12\Favorites\Documents\Visual Studio 2015\Projects\Color Mixer\KE Energy\KE Energy\obj\Debug\KE Energy.pdb
